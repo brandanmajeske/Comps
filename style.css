@@ -22,3 +22,17 @@ body {
 	margin:0px 100px 100px 0px;
 	clear: both;
 }
+
+a:link {
+	color: #0084ff;
+}
+
+a:visited {
+	color: #0084ff;
+}
+a:hover {
+	color: #00DF2A;
+}
+a:active {
+	color: #004B91;
+}
