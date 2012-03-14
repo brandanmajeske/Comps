@@ -12,4 +12,6 @@ body {
 
 .to_top {
 	float: right;
+	margin-right: 250px;
+	clear: both;
 }
