@@ -12,11 +12,7 @@ body {
 
 .to_top {
 	float: right;
-<<<<<<< HEAD
 	margin-right: 250px;
-=======
 	margin:0px 100px 100px 0px;
->>>>>>> master
 	clear: both;
-
 }
